@@ -99,3 +99,4 @@ curl -X POST https://your-project.vercel.app/api/check-license \
   -H "Content-Type: application/json" \
   -d '{"email": "test@example.com"}'
 ```
+
